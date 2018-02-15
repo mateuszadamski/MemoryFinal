@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Memory</string>
+    <string name="Camera">Camera</string>
+    <string name="Play">Play</string>
+    <string name="Delete">Delete photos</string>
+    <string name="title_activity_game">game</string>
+</resources>
